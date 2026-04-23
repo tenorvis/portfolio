@@ -12,8 +12,12 @@ layout: default
 <div class="project-gallery" style="display: grid; grid-template-columns: repeat(auto-fill, minmax(300px, 1fr)); gap: 20px;">
   {% for img in page.gallery_images %}
     <div class="gallery-item">
-      <a href="{{ '/projects/' | append: page.folder_name | append: '/' | append: img | relative_url }}" target="_blank">
+      
+      {% assign full_res_image = img | replace: '.webp', '.png' %}
+      <a href="{{ '/projects/' | append: page.folder_name | append: '/' | append: full_res_image | relative_url }}" target="_blank">
+        
         <img src="{{ '/thumbs/' | append: page.folder_name | append: '/' | append: img | relative_url }}" alt="Project Image" style="width: 100%; height: auto;">
+      
       </a>
     </div>
   {% endfor %}
