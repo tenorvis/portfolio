@@ -1,1 +1,1 @@
-collections:  projects:    output: true    permalink: /projects/:name/include:  - assets
+theme: nullremote_theme: nullcollections:  projects:    output: true    permalink: /projects/:name/include:  - assets
