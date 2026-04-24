@@ -1,9 +1,9 @@
 ---
 layout: project
 title: "VR Head Strap"
-description: "Head mount for Vive trackerin CAVE."
+description: "Head mount for Vive tracker in CAVE."
 folder_name: "head-mount"
-gallery_images: 
+gallery_images:
   - headband1.webp
   - headband2.webp
   - headband3.webp
