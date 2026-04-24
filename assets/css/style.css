@@ -79,7 +79,7 @@ nav a {
 
 .portfolio-label {
     text-align: center;
-    font-size: 1.2rem;       /* Smaller and less aggressive than a main title */
+    font-size: 2.5rem;       /* Smaller and less aggressive than a main title */
     color: #666;             /* Muted grey color for a cleaner, understated look */
     font-weight: 400;        /* Normal weight */
     text-transform: uppercase;
