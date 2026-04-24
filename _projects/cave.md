@@ -1,7 +1,7 @@
 ---
 layout: project
 title: "The DiVE"
-description: "Duke DiVE CAVE."
+description: "Duke DiVE CAVE"
 folder_name: "cave"
 gallery_images:
   - starparty3.webp
