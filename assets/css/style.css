@@ -11,7 +11,7 @@ body {
 
 /* --- Navigation --- */
 nav {
-    padding: 20px 0;
+    padding: 40px 0;
     border-bottom: 1px solid #ddd;
     margin-bottom: 30px;
 }
@@ -82,7 +82,7 @@ nav a {
 /* --- Mobile Specific Fixes --- */
 @media (max-width: 480px) {
     body {
-        padding: 0 15px; /* Slightly tighter padding for small screens */
+        padding: 0 25px; /* Slightly tighter padding for small screens */
     }
     
     .gallery {
