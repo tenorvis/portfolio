@@ -10,7 +10,7 @@ body {
 .container {
     max-width: 900px;  /* This controls how "small" the gallery feels */
     margin: 0 auto;    /* This centers the entire block */
-    padding: 0 40px;   /* Small buffer so text doesn't touch mobile edges */
+    padding: 0 20px;   /* Small buffer so text doesn't touch mobile edges */
 }
 
 /* --- Navigation --- */
