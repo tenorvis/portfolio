@@ -1,6 +1,6 @@
 ---
 layout: project
-title: "AR Brain for DBS"
+title: "AR Deep Brain Stimulation"
 description: "AR DBS"
 folder_name: "brain"
 gallery_images:
