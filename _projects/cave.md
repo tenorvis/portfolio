@@ -1,8 +1,8 @@
 ---
 layout: project
 title: "VR Head Strap"
-description: "Head mount for Vive tracker in CAVE."
-folder_name: "head-mount"
+description: "Duke DiVE CAVE."
+folder_name: "The DiVE"
 gallery_images:
   - starparty3.webp
   - starparty2.webp
