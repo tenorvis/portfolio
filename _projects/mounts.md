@@ -5,8 +5,7 @@ description: "Holders and Mounts"
 folder_name: "mounts"
 gallery_images:
   - strdmt1.webp
-  - tckrstrp.webp
-  - pinchglove3.webp
+  - tckrstrp1.webp
   - cmrmt2.webp
   - cmrmt3.webp
   - pimt1.webp
