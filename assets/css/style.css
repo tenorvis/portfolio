@@ -77,6 +77,17 @@ nav a {
     color: #33ebff;
 }
 
+.portfolio-label {
+    text-align: center;
+    font-size: 1.2rem;       /* Smaller and less aggressive than a main title */
+    color: #666;             /* Muted grey color for a cleaner, understated look */
+    font-weight: 400;        /* Normal weight */
+    text-transform: uppercase;
+    letter-spacing: 0.2rem;  /* Wide spacing gives it a modern, techy feel */
+    margin-top: 50px;
+    margin-bottom: 30px;
+}
+
 /* --- Project Page Layout --- */
 .project-gallery {
     display: grid;
