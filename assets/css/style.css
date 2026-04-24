@@ -79,13 +79,14 @@ nav a {
 
 .portfolio-label {
     text-align: center;
-    font-size: 2.5rem;       /* Smaller and less aggressive than a main title */
-    color: #666;             /* Muted grey color for a cleaner, understated look */
-    font-weight: 400;        /* Normal weight */
+    /* 'clamp' allows the text to scale between a min and max size */
+    font-size: clamp(1rem, 2vw + 0.5rem, 1.5rem); 
+    color: #666;
+    font-weight: 400;
     text-transform: uppercase;
-    letter-spacing: 0.2rem;  /* Wide spacing gives it a modern, techy feel */
-    margin-top: 50px;
-    margin-bottom: 30px;
+    letter-spacing: 0.2rem;
+    margin-top: clamp(30px, 5vw, 50px);      /* Scales the top margin */
+    margin-bottom: clamp(20px, 3vw, 30px);   /* Scales the bottom margin */
 }
 
 /* --- Project Page Layout --- */
