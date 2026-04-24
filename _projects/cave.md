@@ -1,6 +1,6 @@
 ---
 layout: project
-title: "VR Head Strap"
+title: "The DiVE"
 description: "Duke DiVE CAVE."
 folder_name: "The DiVE"
 gallery_images:
