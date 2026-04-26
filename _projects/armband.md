@@ -35,7 +35,6 @@ gallery_images:
 
 ---
 
-
 While working on NIST PSCR project, I explored the possibility of using custom tracked devices for our simulations. Such devices could be used to track AR displays in VR. Based on discussions with first responders, it was felt that an armband location would be useful. The location is familiar for those who wear a wristwatch and can be easily moved out of the way when not needed. To not clutter one’s vision. In a real traffic stop scenario, a wristband with buttons might be worn to enable and disable the device. 
 The armband went through several iterations as I tried various tracker HDKs and familiarized myself with the Steam VR SDK. Early efforts were focused on calibrating the IMU and establishing reliable sensor placement. Using CAD and the Steam VR SDK, I generated JSON files experimented with sensor placement and various cover materials for the sensors.
 
