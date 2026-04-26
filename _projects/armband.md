@@ -41,3 +41,7 @@ The armband went through several iterations as I tried various tracker HDKs and 
 Jason Jerald’s company NextGen was also awarded a NIST PSCR grant for similar research so we partnered with them to compare notes. Coincidentally, they also decided to develop a custom armband and we were able to use some of their software and hardware to evaluate tracking accuracy. To further assist with accuracy measurement, I designed and built two custom motorized rigs to compare two tracked devices. In most of my testing, I mounted a vive tracker for ground truth and my custom tracked armband for evaluation.
 
 One of my custom rigs, a two platter belt drive turntable, borrowed by NextGen to compare tracked devices in their lab. I designed an interface to mount my rig directly to the robot.
+
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/hKuFwdZ3yvU?si=blkOI4MLeilXZiLL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/g9xPwM_dKr0?si=ZZmRcGtt_-9j5UIy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
