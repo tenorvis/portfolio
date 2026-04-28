@@ -6,6 +6,9 @@ permalink: /about/
 
 <div class="project-wrapper">
 
-Under Construction
+Member:
+
+IEEE
+ACM
 
 </div>
