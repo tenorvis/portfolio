@@ -10,6 +10,8 @@ gallery_images:
   - proto3demo.webp
   - protoa3j.webp
   - proto3jj.webp
+  - protoak.webp
+  - protoa3k.webp
   - protoa3k2.webp
   - protoa3s.webp
   - protoa3r.webp
