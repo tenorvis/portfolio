@@ -85,7 +85,7 @@ nav a {
     font-weight: bold;
     text-transform: uppercase;
     letter-spacing: 0.2rem;
-    margin-top: clamp(0px, 5vw, 50px);      /* Scales the top margin */
+    margin-top: clamp(0px, 1.5vw, 15px);      /* Scales the top margin */
     margin-bottom: clamp(20px, 3vw, 30px);   /* Scales the bottom margin */
 }
 
