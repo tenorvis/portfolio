@@ -15,8 +15,8 @@ gallery_images:
   - proto5a.webp
   - proto5b.webp
   - protoa3z2.webp
-  - protoa3z5.webp
   - protoa3z6.webp
+  - protoa3z5.webp
   - protoa3z11.webp
   - protoa3r.webp
   - protoa3m.webp
