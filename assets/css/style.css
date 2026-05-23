@@ -79,14 +79,17 @@ nav a {
 
 .portfolio-label {
     text-align: center;
-    /* 'clamp' allows the text to scale between a min and max size */
-    font-size: clamp(1.25rem, 3vw + 0.75rem, 2.25rem);
     color: #33ebff;
-    font-weight: bold;
     text-transform: uppercase;
     letter-spacing: 0.2rem;
-    margin-top: clamp(0px, 1.5vw, 15px);      /* Scales the top margin */
-    margin-bottom: clamp(20px, 3vw, 30px);   /* Scales the bottom margin */
+    
+    /* 1. Matches the font size of an h2/h3 closely rather than scaling crazily */
+    font-size: 1.5rem; 
+    
+    /* 2. Matches the default native browser margins that your project headers use */
+    margin-top: 1em;
+    margin-bottom: 1em;
+    line-height: 1.6; /* Matches the body line-height used on your project pages */
 }
 
 /* --- Project Page Layout --- */

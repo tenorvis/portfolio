@@ -3,17 +3,16 @@ layout: default
 title: "Home"
 ---
 
-<div class="container">
-	<h2 class="portfolio-label">Mark's Portfolio</h2>
-  <div class="gallery">
-    {% for project in site.projects %}
-      <div class="thumb-card">
-        <a href="{{ project.url | relative_url }}">
-          <img src="{{ '/thumbs/' | append: project.folder_name | append: '/' | append: project.gallery_images[0] | relative_url }}" alt="{{ project.title }}">
-          <h3>{{ project.title }}</h3>
-        </a>
-      </div>
-    {% endfor %}
-  </div>
+<!-- Removed .container to match the project pages' layout flow -->
+<h2 class="portfolio-label">Mark's Portfolio</h2>
 
+<div class="gallery">
+  {% for project in site.projects %}
+    <div class="thumb-card">
+      <a href="{{ project.url | relative_url }}">
+        <img src="{{ '/thumbs/' | append: project.folder_name | append: '/' | append: project.gallery_images[0] | relative_url }}" alt="{{ project.title }}">
+        <h3>{{ project.title }}</h3>
+      </a>
+    </div>
+  {% endfor %}
 </div>
