@@ -8,10 +8,6 @@ gallery_images:
   - protoa3b.webp
   - protoa3c.webp
   - proto3demo.webp
-  - protoa3k2.webp
-  - protoa3s.webp
-  - protoa3r.webp
-  - protoa3m.webp
   - protoa3ynoimu2.webp
   - protoa3z.webp
   - protoa3x.webp
@@ -22,6 +18,10 @@ gallery_images:
   - protoa3z5.webp
   - protoa3z6.webp
   - protoa3z11.webp
+  - protoa3r.webp
+  - protoa3m.webp
+  - protoa3k2.webp
+  - protoa3s.webp
   - protoa3j.webp
   - proto3jj.webp
   - protoak.webp
