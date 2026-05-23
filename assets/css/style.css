@@ -82,7 +82,7 @@ nav a {
     /* 'clamp' allows the text to scale between a min and max size */
     font-size: clamp(1.25rem, 3vw + 0.75rem, 2.25rem);
     color: #33ebff;
-    font-weight: 500;
+    font-weight: bold;
     text-transform: uppercase;
     letter-spacing: 0.2rem;
     margin-top: clamp(30px, 5vw, 50px);      /* Scales the top margin */
