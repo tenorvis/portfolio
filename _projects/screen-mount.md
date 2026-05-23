@@ -12,7 +12,6 @@ gallery_images:
   - screenmount6.webp
   - screenmount7.webp
   - screenmount8.webp
-  - screenmount9.webp
   - screenmount11.webp
   - screenmount10.webp
 ---
