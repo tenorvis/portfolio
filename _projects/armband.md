@@ -8,10 +8,6 @@ gallery_images:
   - protoa3b.webp
   - protoa3c.webp
   - proto3demo.webp
-  - protoa3j.webp
-  - proto3jj.webp
-  - protoak.webp
-  - protoa3k.webp
   - protoa3k2.webp
   - protoa3s.webp
   - protoa3r.webp
@@ -26,6 +22,10 @@ gallery_images:
   - protoa3z5.webp
   - protoa3z6.webp
   - protoa3z11.webp
+  - protoa3j.webp
+  - proto3jj.webp
+  - protoak.webp
+  - protoa3k.webp
   - divenodesnew11.webp
   - divenodesnew12.webp
   - protoa2a.webp
