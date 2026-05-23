@@ -25,7 +25,7 @@ gallery_images:
   - protoa3j.webp
   - proto3jj.webp
   - protoak.webp
-  - protoa3k.webp
+  - protoa3d.webp
   - divenodesnew11.webp
   - divenodesnew12.webp
   - protoa2a.webp
