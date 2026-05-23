@@ -41,6 +41,12 @@ gallery_images:
 
 ---
 
+Our research team worked with the Hillsborough Police Department, the Durham Fire Department, and Wake County EMS. We conducted interviews, participated in ride-alongs and conducted field research. Our resulting simulations were a traffic stop scenario, a search and rescue scenario in a burning building, and a complex medical emergency.
+
+My teammates were primarily responsible for the police and burning building scenarios while I was primarily responsible for the complex medical emergency scenario. I designed the UI, all of the room and furniture assets, the trauma glasses worn by the NPCs which are from Rocketbox. Most animations were obtained from Mixamo.
+
+For the burning building search and rescue scenario I designed the building itself, the colored fire hat icons along with the room numbering and glowing outlines that appear as rooms are scanned by the firefighters. The addition of these elements was informed by the interviews and firefighting training that we participated in.
+
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/IxMlsUuzARE?si=KJtb1XntM76gSLrS" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/PTNWYquXWfk?si=erfV0O27RoRd5IdQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
