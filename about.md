@@ -5,7 +5,10 @@ permalink: /about/
 ---
 
 <div class="project-wrapper">
-
+The projects in this portfolio were completed part-time or after hours while working for Duke University's Pratt School of Engineering IT department.
+<br>
+<br>
+<br>
 Professional Memberships:
 <br>
 <br>
