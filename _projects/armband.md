@@ -43,7 +43,7 @@ gallery_images:
 
 ---
 
-Research Collaborator & XR Systems Engineer 
+Research Collaborator & XR Systems Engineer
 
 While working under a NIST PSCR grant, I designed and prototyped a tracked device for our research team's simulations. Based on discussions with first responders, it was determined that anchoring the virtual UI to an armband would be useful. The location is familiar for those who wear a wristwatch and can be easily moved out of the way when not needed. To not clutter one’s vision. In a real traffic stop scenario, a wristband with buttons might be worn to enable and disable the device. My armband was used to track the EMS HUD in VR. A production version for AR might involve a physical anchor bracelet or a calculated anchor point.
 
