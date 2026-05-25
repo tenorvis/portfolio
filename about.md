@@ -8,12 +8,14 @@ permalink: /about/
 
 Professional Memberships:
 <br>
-  IEEE
+IEEE
 <br>
-  ACM
+ACM
+<br>
+NCXR
 <br>
 <br>
-Hobby Memberships:
+Recreational Memberships:
 <br>
 Planetary Society
 <br>
