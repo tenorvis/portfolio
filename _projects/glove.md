@@ -14,3 +14,5 @@ gallery_images:
   - pinchglove5.webp
 
 ---
+
+While playing games on my Oculus Rift DK2 in 2015, I noticed that I wanted easier access to keyboard shortcuts and other commands. To address this, I made a pinch glove. My design used conductive cloth stitched to a basic cotton garden glove. It eventually included a track ball, sourced from and old Apple mouse, and eventually an IMU.
