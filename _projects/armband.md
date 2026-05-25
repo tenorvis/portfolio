@@ -52,13 +52,13 @@ Jason Jerald’s company NextGen was also awarded a sister NIST PSCR grant and w
 One of my custom rigs, a two platter belt drive turntable, borrowed by NextGen to compare tracked devices in their lab. I designed an interface to mount my rig directly to the robot.
 
 <div style="display: flex; justify-content: center; margin: 20px 0;">
+  <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/2530ZBc48_w?si=q-oZbmsTWBSXewWr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div>
+
+<div style="display: flex; justify-content: center; margin: 20px 0;">
   <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/hKuFwdZ3yvU?si=blkOI4MLeilXZiLL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div>
 
 <div style="display: flex; justify-content: center; margin: 20px 0;">
   <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/g9xPwM_dKr0?si=ZZmRcGtt_-9j5UIy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-</div>
-
-<div style="display: flex; justify-content: center; margin: 20px 0;">
-  <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/2530ZBc48_w?si=q-oZbmsTWBSXewWr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div>
