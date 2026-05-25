@@ -8,4 +8,7 @@ gallery_images:
   - headband2.webp
   - headband3.webp
   - headband4.webp
+  - headband5.webp
+  - headband6.webp
+  - headband7.webp
 ---

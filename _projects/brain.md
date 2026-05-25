@@ -16,8 +16,8 @@ While working in Dr. Cameron McIntyre’s lab, I developed an inhouse version of
 
 Another part of this project involved creating a new UI that was more user friendly than the one implemented by the vendor.
 
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/tYRpqKB0c5k?si=gm7j9ZxhBbHpRMnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/8_7py0RPDPg?si=Q4B7oPKJbpeRNz4q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/tYRpqKB0c5k?si=gm7j9ZxhBbHpRMnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/DWDaAdCE0Y4?si=ATeCav9YYVLJ-heg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

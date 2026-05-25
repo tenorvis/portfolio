@@ -9,5 +9,8 @@ gallery_images:
   - pinchglove3.webp
   - pinchglove4.webp
   - pinchglove5.webp
+  - pinchglove6.webp
+  - pinchglove7.webp
+  - pinchglove8.webp
 
 ---
