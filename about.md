@@ -8,7 +8,7 @@ permalink: /about/
 
 Member:
 
-IEEE
-ACM
+* IEEE
+* ACM
 
 </div>
