@@ -8,6 +8,7 @@ permalink: /about/
 
 Professional Memberships:
 <br>
+<br>
 IEEE
 <br>
 ACM
@@ -15,14 +16,18 @@ ACM
 NCXR
 <br>
 <br>
+<br>
 Recreational Memberships:
+<br>
 <br>
 Planetary Society
 <br>
 Academy of Model Aeronautics
 <br>
 <br>
+<br>
   Current Projects:
+<br>
 <br>
   Modular VR HMD
 <br>
