@@ -6,11 +6,18 @@ permalink: /about/
 
 <div class="project-wrapper">
 
-Member:
+Professional Memberships:
 <br>
   IEEE
 <br>
   ACM
+<br>
+<br>
+Hobby Memberships:
+<br>
+Planetary Society
+<br>
+Academy of Model Aeronautics
 <br>
 <br>
   Current Projects:
