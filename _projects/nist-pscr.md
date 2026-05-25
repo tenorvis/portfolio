@@ -45,7 +45,7 @@ Research Collaborator & XR Systems Engineer
 
 Our research team worked with the Hillsborough Police Department, the Durham Fire Department, and Wake County EMS. We conducted interviews, participated in ride-alongs and conducted field research. Our resulting simulations were a traffic stop scenario, a search and rescue scenario in a burning building, and a complex medical emergency.
 
-My teammates were primarily responsible for the police and burning building scenarios while I was primarily responsible for the complex medical emergency scenario. I designed the UI, all of the room and furniture assets, the trauma glasses worn by the NPCs which are from Rocketbox. Most animations were obtained from Mixamo.
+My teammates were primarily responsible for the police and burning building scenarios while I was primarily responsible for the tracked armband and the complex medical emergency scenario. I designed the UI, all of the room and furniture assets, the trauma glasses worn by the NPCs which are from Rocketbox. Most animations were obtained from Mixamo.
 
 For the burning building search and rescue scenario I designed the building itself, the colored fire hat icons along with the room numbering and glowing outlines that appear as rooms are scanned by the firefighters. The addition of these elements was informed by the interviews and firefighting training that we participated in.
 
