@@ -37,4 +37,4 @@ I saw the DiVE through two generations of computing hardware and worked with the
 Through working with the DiVE’s lead developer, I learned a lot about VR programming and how the rest of the system worked and became an official tour guide for visitors.
 For experimental purpose, to compare tracking systems, I designed and made a custom magnetic mount for Vive lighthouses that held the lighthouse without needing to puncture the screens. The magnets were pulled from old hard drives, and I designed a tray system into the mount so they could be positioned accurately for minimum weight and maximum strength.
 
-The program running in the DiVE in these photos, Star Party VR, was developed by me for a Unity course that I audited.
+Star Party VR was developed by me for a Unity course that I audited at Duke. Later adapted to run in the DiVE.
