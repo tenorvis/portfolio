@@ -5,11 +5,12 @@ description: "Head mount for Vive tracker in CAVE."
 folder_name: "head-mount"
 gallery_images:
   - headband1.webp
-test text
+<figure>
+  <img src="headband1.webp" alt="Description">
+  <figcaption>This text serves as a caption below the photo.</figcaption>
+</figure>
   - headband5.webp
-test text 2
   - headband3.webp
-test text 3
   - headband4.webp
   - headband6.webp
   - headband7.webp
