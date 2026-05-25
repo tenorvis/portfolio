@@ -11,8 +11,3 @@ gallery_images:
   - headband6.webp
   - headband7.webp
 ---
-
-<figure>
-  <img src="headband1.webp" alt="Description">
-  <figcaption>This text serves as a caption below the photo.</figcaption>
-</figure>
