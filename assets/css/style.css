@@ -77,21 +77,6 @@ nav a {
     color: #33ebff;
 }
 
-.portfolio-label {
-    text-align: center;
-    color: #33ebff;
-    text-transform: uppercase;
-    letter-spacing: 0.2rem;
-    
-    /* 1. Matches the font size of an h2/h3 closely rather than scaling crazily */
-    font-size: 1.5rem; 
-    
-    /* 2. Matches the default native browser margins that your project headers use */
-    margin-top: 1em;
-    margin-bottom: 1em;
-    line-height: 1.6; /* Matches the body line-height used on your project pages */
-}
-
 /* --- Project Page Layout --- */
 .project-gallery {
     display: grid;
