@@ -16,6 +16,8 @@ While working in Dr. Cameron McIntyre’s lab, I developed an inhouse version of
 
 Another part of this project involved creating a new UI that was more user friendly than the one implemented by the vendor.
 
+For this project, I had to quickly familiarize myself with MRTK and sideloading to the HoloLens 2. Although I had developed simulated AR interfaces, this was my first time working with the hardware.
+
 <div style="display: flex; justify-content: center; margin: 20px 0;">
   <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/8_7py0RPDPg?si=Q4B7oPKJbpeRNz4q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div>
