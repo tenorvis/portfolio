@@ -30,7 +30,7 @@ gallery_images:
 
 ---
 
-Computer Systems Architect and Support
+Computer Systems Engineer
 
 One of my roles within Duke’s Pratt School of Engineering was to manage the hardware needs of the DiVE, the Duke immersive Virtual Environment, one of 6 CAVE systems in the world at the time.
 
