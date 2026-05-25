@@ -7,8 +7,9 @@ permalink: /about/
 <div class="project-wrapper">
 
 Member:
-
-* IEEE
-* ACM
+<br>
+IEEE
+<br>
+ACM
 
 </div>
