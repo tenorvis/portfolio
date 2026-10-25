@@ -2,6 +2,7 @@
 layout: project
 title: "VR Head Strap"
 description: "Head mount for Vive tracker"
+order: 5
 folder_name: "head-mount"
 gallery_items:
   - image: headband1.webp

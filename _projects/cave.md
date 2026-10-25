@@ -2,6 +2,7 @@
 layout: project
 title: "The DiVE"
 description: "Duke DiVE CAVE"
+order: 4
 folder_name: "cave"
 gallery_items:
   - image: starparty3.webp

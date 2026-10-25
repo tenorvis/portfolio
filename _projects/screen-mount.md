@@ -2,6 +2,7 @@
 layout: project
 title: "VR Screen Mount"
 description: "Integration of HTC Vive tracking hardware"
+order: 6
 folder_name: "screen-mount"
 gallery_items:
   - image: screenmount1.webp

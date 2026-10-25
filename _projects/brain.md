@@ -2,6 +2,7 @@
 layout: project
 title: "AR Deep Brain Stimulation"
 description: "AR DBS"
+order: 3
 folder_name: "brain"
 gallery_items:
   - image: dbs1.webp

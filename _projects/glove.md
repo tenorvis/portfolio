@@ -2,6 +2,7 @@
 layout: project
 title: "VR Glove"
 description: "Pinch Glove for VR"
+order: 7
 folder_name: "glove"
 gallery_items:
   - image: pinchglove6.webp

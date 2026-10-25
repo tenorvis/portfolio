@@ -2,6 +2,7 @@
 layout: project
 title: "Holders and Mounts"
 description: "Holders and Mounts"
+order: 8
 folder_name: "mounts"
 gallery_items:
   - image: strdmt1.webp
