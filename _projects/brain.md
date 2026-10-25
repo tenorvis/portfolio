@@ -5,6 +5,7 @@ description: "AR DBS"
 folder_name: "brain"
 gallery_items:
   - image: dbs1.webp
+    annotation: "DBS test annotation for thumbnail."
   - image: dbs2.webp
   - image: dbs3.webp
   - image: dbs4.webp
