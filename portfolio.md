@@ -5,7 +5,8 @@ permalink: /portfolio/
 ---
 
 <div class="gallery">
-  {% for project in site.projects %}
+  {% assign sorted_projects = site.projects | sort: 'order' %}
+  {% for project in sorted_projects %}
     <div class="thumb-card">
       <a href="{{ project.url | relative_url }}">
         {% assign first_image = project.gallery_items | where: "type", "" | first %}

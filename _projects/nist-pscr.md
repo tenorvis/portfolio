@@ -2,6 +2,7 @@
 layout: project
 title: "NIST PSCR"
 description: "Developing Next Generation AR in VR"
+order: 1
 folder_name: "nist-pscr"
 gallery_items:
   - image: ems9.webp

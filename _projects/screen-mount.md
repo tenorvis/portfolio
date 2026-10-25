@@ -1,7 +1,7 @@
 ---
 layout: project
 title: "VR Screen Mount"
-description: "Integration of Babble and Bigscreen Beyond tracking hardware."
+description: "Integration of HTC Vive tracking hardware"
 folder_name: "screen-mount"
 gallery_items:
   - image: screenmount1.webp
