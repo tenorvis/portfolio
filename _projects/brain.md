@@ -5,7 +5,7 @@ description: "AR DBS"
 folder_name: "brain"
 gallery_items:
   - image: dbs1.webp
-    annotation: "lorem ipsum dolor sit amet consectetur adipiscing elit ducimus sed sunt sunt ut cillum id quis illum est eligendi deserunt eligendi eos et eiusmod deleniti ex aut quis adipiscing praesentium et dolorum ea repellendus dolore facere cillum tempore in ipsum autem dolore eu occaecat ut eu excepteur et pariatur cupidatat."
+    annotation: "lorem ipsum dolor sit amet consectetur adipiscing elit ducimus sed sunt sunt ut cillum id quis illum est eligendi deserunt eligendi eos et eiusmod deleniti ex aut quis adipiscing praesentium et dolorum ea repellendus dolore facere cillum tempore in ipsum autem dolore eu occaecat ut eu excepteur et pariatur cupidatat. <br> lorem ipsum dolor sit amet consectetur adipiscing elit ducimus sed sunt sunt ut cillum id quis illum est eligendi deserunt eligendi eos et eiusmod deleniti ex aut quis adipiscing praesentium et dolorum ea repellendus dolore facere cillum tempore in ipsum autem dolore eu occaecat ut eu excepteur et pariatur cupidatat."
   - image: dbs2.webp
   - image: dbs3.webp
   - image: dbs4.webp
