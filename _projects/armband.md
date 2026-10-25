@@ -2,6 +2,7 @@
 layout: project
 title: "Tracked Armband"
 description: "VR Armband"
+order: 2
 folder_name: "armband"
 gallery_items:
   - image: protoa3a.webp
