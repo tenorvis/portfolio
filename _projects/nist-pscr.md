@@ -41,13 +41,13 @@ gallery_items:
   - image: firetraining7.webp
   - type: video
     id: IxMlsUuzARE
-    annotation: "Traffic stop scenario simulation."
+    annotation: "EMS complex medical emergency simulation."
   - type: video
     id: PTNWYquXWfk
     annotation: "Burning building search and rescue scenario."
   - type: video
     id: B-aV3OyoJZI
-    annotation: "Complex medical emergency simulation."
+    annotation: "Traffic stop scenario simulation."
 
 ---
 
