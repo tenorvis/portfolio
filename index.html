@@ -3,16 +3,8 @@ layout: default
 title: "Home"
 ---
 
-<!-- Removed .container to match the project pages' layout flow -->
-<h1>- - Under Construction - -</h1>
-
-<div class="gallery">
-  {% for project in site.projects %}
-    <div class="thumb-card">
-      <a href="{{ project.url | relative_url }}">
-        <img src="{{ '/thumbs/' | append: project.folder_name | append: '/' | append: project.gallery_images[0] | relative_url }}" alt="{{ project.title }}">
-        <h3>{{ project.title }}</h3>
-      </a>
-    </div>
-  {% endfor %}
+<div class="home-intro">
+  <h1>Mark Ogren</h1>
+  <h2>XR Solutions Engineer</h2>
+  <p class="home-bio">XR hardware and software for research and development.</p>
 </div>

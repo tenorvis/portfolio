@@ -3,22 +3,22 @@ layout: project
 title: "Holders and Mounts"
 description: "Holders and Mounts"
 folder_name: "mounts"
-gallery_images:
-  - strdmt1.webp
-  - tckrstrp1.webp
-  - cmrmt2.webp
-  - cmrmt3.webp
-  - pimt1.webp
-  - hldr1.webp
-  - prtmts1.webp
-  - prtmts2.webp
-  - prtmts3.webp
-  - vrs1.webp
-  - vrs2.webp
-  - whtbrd1.webp
-  - whtbrd3.webp
-  - clsspn2.webp
-  - clsspn1.webp
-  - cbllck1.webp
+gallery_items:
+  - image: strdmt1.webp
+  - image: tckrstrp1.webp
+  - image: cmrmt2.webp
+  - image: cmrmt3.webp
+  - image: pimt1.webp
+  - image: hldr1.webp
+  - image: prtmts1.webp
+  - image: prtmts2.webp
+  - image: prtmts3.webp
+  - image: vrs1.webp
+  - image: vrs2.webp
+  - image: whtbrd1.webp
+  - image: whtbrd3.webp
+  - image: clsspn2.webp
+  - image: clsspn1.webp
+  - image: cbllck1.webp
 
 ---

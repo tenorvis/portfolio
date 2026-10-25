@@ -3,41 +3,50 @@ layout: project
 title: "NIST PSCR"
 description: "Developing Next Generation AR in VR"
 folder_name: "nist-pscr"
-gallery_images:
-  - ems9.webp
-  - ems5.webp
-  - ems3.webp
-  - ems4.webp
-  - ems13.webp
-  - ems22.webp
-  - ems14.webp
-  - ems31.webp
-  - ems40.webp
-  - ems42.webp
-  - ems44.webp
-  - ems37.webp
-  - ems36.webp
-  - ems34.webp
-  - ems41.webp
-  - ems45.webp
-  - fire1.webp
-  - fire4.webp
-  - fire20.webp
-  - fire5.webp
-  - fire19.webp
-  - fire10.webp
-  - fire11.webp
-  - fire23.webp
-  - firetraining4.webp
-  - firetraining5.webp
-  - firetraining1.webp
-  - firetraining3.webp
-  - fire15.webp
-  - fire14.webp
-  - fire259.webp
-  - emsfire10.webp
-  - firetraining6.webp
-  - firetraining7.webp
+gallery_items:
+  - image: ems9.webp
+  - image: ems5.webp
+  - image: ems3.webp
+  - image: ems4.webp
+  - image: ems13.webp
+  - image: ems22.webp
+  - image: ems14.webp
+  - image: ems31.webp
+  - image: ems40.webp
+  - image: ems42.webp
+  - image: ems44.webp
+  - image: ems37.webp
+  - image: ems36.webp
+  - image: ems34.webp
+  - image: ems41.webp
+  - image: ems45.webp
+  - image: fire1.webp
+  - image: fire4.webp
+  - image: fire20.webp
+  - image: fire5.webp
+  - image: fire19.webp
+  - image: fire10.webp
+  - image: fire11.webp
+  - image: fire23.webp
+  - image: firetraining4.webp
+  - image: firetraining5.webp
+  - image: firetraining1.webp
+  - image: firetraining3.webp
+  - image: fire15.webp
+  - image: fire14.webp
+  - image: fire259.webp
+  - image: emsfire10.webp
+  - image: firetraining6.webp
+  - image: firetraining7.webp
+  - type: video
+    id: IxMlsUuzARE
+    annotation: "Traffic stop scenario simulation."
+  - type: video
+    id: PTNWYquXWfk
+    annotation: "Burning building search and rescue scenario."
+  - type: video
+    id: B-aV3OyoJZI
+    annotation: "Complex medical emergency simulation."
 
 ---
 
@@ -48,18 +57,6 @@ Our research team worked with the Hillsborough Police Department, the Durham Fir
 My teammates were primarily responsible for the police and burning building scenarios while I was primarily responsible for the tracked armband and the complex medical emergency scenario. I designed the UI, all of the room and furniture assets, the trauma glasses worn by the NPCs which are from Rocketbox. Most animations were obtained from Mixamo.
 
 For the burning building search and rescue scenario I designed the building itself, the colored fire hat icons along with the room numbering and glowing outlines that appear as rooms are scanned by the firefighters. The addition of these elements was informed by the interviews and firefighting training that we participated in.
-
-<div style="display: flex; justify-content: center; margin: 20px 0;">
-  <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/IxMlsUuzARE?si=KJtb1XntM76gSLrS" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-</div>
-
-<div style="display: flex; justify-content: center; margin: 20px 0;">
-  <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/PTNWYquXWfk?si=erfV0O27RoRd5IdQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-</div>
-
-<div style="display: flex; justify-content: center; margin: 20px 0;">
-  <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/B-aV3OyoJZI?si=2_mGzBWN8uCYMayj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-</div>
 
 
 

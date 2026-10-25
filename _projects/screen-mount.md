@@ -3,17 +3,17 @@ layout: project
 title: "VR Screen Mount"
 description: "Integration of Babble and Bigscreen Beyond tracking hardware."
 folder_name: "screen-mount"
-gallery_images: 
-  - screenmount1.webp
-  - screenmount2.webp
-  - screenmount3.webp
-  - screenmount4.webp
-  - screenmount5.webp
-  - screenmount6.webp
-  - screenmount7.webp
-  - screenmount11.webp
-  - screenmount8.webp
-  - screenmount10.webp
+gallery_items:
+  - image: screenmount1.webp
+  - image: screenmount2.webp
+  - image: screenmount3.webp
+  - image: screenmount4.webp
+  - image: screenmount5.webp
+  - image: screenmount6.webp
+  - image: screenmount7.webp
+  - image: screenmount11.webp
+  - image: screenmount8.webp
+  - image: screenmount10.webp
 ---
 
 XR Hardware Engineer

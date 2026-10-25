@@ -3,30 +3,30 @@ layout: project
 title: "The DiVE"
 description: "Duke DiVE CAVE"
 folder_name: "cave"
-gallery_images:
-  - starparty3.webp
-  - starparty2.webp
-  - starparty1.webp
-  - starparty4.webp
-  - divenodesnew1.webp
-  - divenodesnew2.webp
-  - divenodesnew3.webp
-  - divenodesnew4.webp
-  - divenodesnew5.webp
-  - divenodesnew6.webp
-  - divenodesnew7.webp
-  - divenodesnew8.webp
-  - divenodesnew9.webp
-  - divenodesnew10.webp
-  - divenodesnew11.webp
-  - divenodesnew12.webp
-  - diveupgrade1.webp
-  - diveupgrade2.webp
-  - diveupgrade3.webp
-  - diveupgrade4.webp
-  - diveupgrade5.webp
-  - divenodesold1.webp
-  - divenodesold2.webp
+gallery_items:
+  - image: starparty3.webp
+  - image: starparty2.webp
+  - image: starparty1.webp
+  - image: starparty4.webp
+  - image: divenodesnew1.webp
+  - image: divenodesnew2.webp
+  - image: divenodesnew3.webp
+  - image: divenodesnew4.webp
+  - image: divenodesnew5.webp
+  - image: divenodesnew6.webp
+  - image: divenodesnew7.webp
+  - image: divenodesnew8.webp
+  - image: divenodesnew9.webp
+  - image: divenodesnew10.webp
+  - image: divenodesnew11.webp
+  - image: divenodesnew12.webp
+  - image: diveupgrade1.webp
+  - image: diveupgrade2.webp
+  - image: diveupgrade3.webp
+  - image: diveupgrade4.webp
+  - image: diveupgrade5.webp
+  - image: divenodesold1.webp
+  - image: divenodesold2.webp
 
 ---
 

@@ -9,16 +9,22 @@ layout: default
 <hr>
 
 <h3>Gallery</h3>
-<div class="project-gallery" style="display: grid; grid-template-columns: repeat(auto-fill, minmax(300px, 1fr)); gap: 20px;">
-  {% for img in page.gallery_images %}
+<div class="project-gallery">
+  {% for item in page.gallery_items %}
     <div class="gallery-item">
-      
-      {% assign full_res_image = img | replace: '.webp', '.png' %}
-      <a href="{{ '/projects/' | append: page.folder_name | append: '/' | append: full_res_image | relative_url }}" target="_blank">
-        
-        <img src="{{ '/thumbs/' | append: page.folder_name | append: '/' | append: img | relative_url }}" alt="Project Image" style="width: 100%; height: auto;">
-      
-      </a>
+      {% if item.type == 'video' %}
+        <div class="gallery-video">
+          <iframe width="100%" height="315" src="https://www.youtube-nocookie.com/embed/{{ item.id }}" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+        </div>
+      {% else %}
+        {% assign full_res_image = item.image | replace: '.webp', '.png' %}
+        <a href="{{ '/projects/' | append: page.folder_name | append: '/' | append: full_res_image | relative_url }}" target="_blank">
+          <img src="{{ '/thumbs/' | append: page.folder_name | append: '/' | append: item.image | relative_url }}" alt="Project Image">
+        </a>
+      {% endif %}
+      {% if item.annotation %}
+        <p class="gallery-annotation">{{ item.annotation }}</p>
+      {% endif %}
     </div>
   {% endfor %}
 </div>

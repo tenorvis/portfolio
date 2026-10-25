@@ -3,15 +3,15 @@ layout: project
 title: "VR Glove"
 description: "Pinch Glove for VR"
 folder_name: "glove"
-gallery_images:
-  - pinchglove6.webp
-  - pinchglove1.webp
-  - pinchglove7.webp
-  - pinchglove8.webp
-  - pinchglove2.webp
-  - pinchglove3.webp
-  - pinchglove4.webp
-  - pinchglove5.webp
+gallery_items:
+  - image: pinchglove6.webp
+  - image: pinchglove1.webp
+  - image: pinchglove7.webp
+  - image: pinchglove8.webp
+  - image: pinchglove2.webp
+  - image: pinchglove3.webp
+  - image: pinchglove4.webp
+  - image: pinchglove5.webp
 
 ---
 

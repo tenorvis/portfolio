@@ -3,13 +3,13 @@ layout: project
 title: "VR Head Strap"
 description: "Head mount for Vive tracker in CAVE."
 folder_name: "head-mount"
-gallery_images:
-  - headband1.webp
-  - headband5.webp
-  - headband3.webp
-  - headband4.webp
-  - headband6.webp
-  - headband7.webp
+gallery_items:
+  - image: headband1.webp
+  - image: headband5.webp
+  - image: headband3.webp
+  - image: headband4.webp
+  - image: headband6.webp
+  - image: headband7.webp
 ---
 
 XR Hardware Engineer

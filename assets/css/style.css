@@ -38,6 +38,32 @@ nav a {
     margin: 0 15px;
 }
 
+/* --- Home Page Intro --- */
+.home-intro {
+    text-align: center;
+    margin-top: 100px;
+}
+
+.home-intro h1 {
+    font-size: 2.5rem;
+    margin-bottom: 10px;
+    color: #33ebff;
+}
+
+.home-intro h2 {
+    font-size: 1.5rem;
+    font-weight: 300;
+    margin-bottom: 20px;
+    color: #ccc;
+}
+
+.home-bio {
+    font-size: 1.1rem;
+    color: #999;
+    max-width: 600px;
+    margin: 0 auto;
+}
+
 /* --- Homepage Gallery Grid --- */
 .gallery {
     display: grid;
@@ -77,6 +103,13 @@ nav a {
     color: #33ebff;
 }
 
+.project-caption {
+    margin: 0 15px 15px 15px;
+    font-size: 0.9rem;
+    color: #999;
+    line-height: 1.4;
+}
+
 /* --- Project Page Layout --- */
 .project-gallery {
     display: grid;
@@ -85,10 +118,35 @@ nav a {
     justify-content: center;
 }
 
+.gallery-item {
+    background: #1a1a1a;
+    border-radius: 10px;
+    overflow: hidden;
+    border: 1px solid #333;
+}
+
 .gallery-item img {
     width: 100%;
     border-radius: 5px;
     border: 1px solid #333;
+}
+
+.gallery-video {
+    padding: 10px;
+}
+
+.gallery-video iframe {
+    border-radius: 5px;
+    width: 100%;
+}
+
+.gallery-annotation {
+    padding: 15px;
+    margin: 0;
+    font-size: 0.95rem;
+    color: #ccc;
+    line-height: 1.6;
+    background: #1a1a1a;
 }
 
 /* --- Mobile Fixes --- */
